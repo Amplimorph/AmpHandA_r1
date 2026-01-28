@@ -106,6 +106,20 @@ A separate, protected medical / clinical development path
 
 Nothing in this repository should be interpreted as a medical device or a step toward clinical use.
 
+## Downloads
+
+### Free Release (Middle Finger)
+
+The complete Middle Finger reference mechanism is available in this repository.
+
+You can also download it as a packaged ZIP here:
+[https://amplimorph.gumroad.com/l/pvrkjb]
+
+### Supporter / Research Release (Ring Finger and Variants)
+
+The Ring Finger mechanism and additional variants are available here:
+[Gumroad Supporter Link]
+
 Philosophy
 
 This project is not about finding one perfect design.
@@ -218,5 +232,6 @@ Or a partnership or supported path to production
 Please contact the author to discuss appropriate arrangements.
 
 License Text
+
 
 The full license text is provided in the LICENSE file in this repository.
