@@ -118,7 +118,7 @@ You can also download it as a packaged ZIP here:
 ### Supporter / Research Release (Ring Finger and Variants)
 
 The Ring Finger mechanism and additional variants are available here:
-[Gumroad Supporter Link]
+[https://amplimorph.gumroad.com/l/nbdls]
 
 Philosophy
 
@@ -235,3 +235,4 @@ License Text
 
 
 The full license text is provided in the LICENSE file in this repository.
+
