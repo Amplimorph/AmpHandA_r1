@@ -120,6 +120,10 @@ You can also download it as a packaged ZIP here:
 The Ring Finger mechanism and additional variants are available here:
 [https://amplimorph.gumroad.com/l/nbdls]
 
+Video description and assembly 
+
+[https://youtu.be/bUBAS56mLsY]
+
 Philosophy
 
 This project is not about finding one perfect design.
@@ -235,4 +239,5 @@ License Text
 
 
 The full license text is provided in the LICENSE file in this repository.
+
 
